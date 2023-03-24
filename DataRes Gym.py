@@ -30,14 +30,6 @@ df3 = pd.DataFrame(df3)
 df3
 
 
-# In[8]:
-
-
-df4 = pd.read_csv("fitness analysis.csv")
-df4 = pd.DataFrame(df4)
-df4
-
-
 # In[4]:
 
 
@@ -67,18 +59,4 @@ print(f)
 g = sns.displot(data=df2, x="Level", y="Consistency")
 g.set(title="How UCLA students classified their gym level and how long they have gymmed")
 g
-
-
-# In[69]:
-
-
-k = sns.displot(data=df3, x="Level", y="Muscle Group")
-k.set(title="How UCLA students classified their gym level and what muscle group they like to target")
-k
-
-
-# In[ ]:
-
-
-
 
