@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#This code is used to generate the graphs comparing (1) gym level x frequency and (2) gym level x consistency of gym 
 # In[32]:
 
 
